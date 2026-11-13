@@ -13,7 +13,7 @@ const Footer = () => {
           © {new Date().getFullYear()} Mohammad Shaukat Ali.
         </p>
         <div className="footer-links">
-          <a href="https://www.linkedin.com/in/mohammadshaukat-ali-803740144" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/mohammad-shaukat-ali-803740144/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
         </div>
       </div>
     </footer>
