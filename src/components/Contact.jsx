@@ -43,7 +43,7 @@ const Contact = () => {
             transition={{ duration: 0.8, delay: 0.4 }}
           >
             <span className="contact-kicker">Research collaborations & opportunities</span>
-            <a href="https://www.linkedin.com/in/mohammadshaukat-ali-803740144" target="_blank" rel="noopener noreferrer" className="email-link">
+            <a href="https://www.linkedin.com/in/mohammad-shaukat-ali-803740144/" target="_blank" rel="noopener noreferrer" className="email-link">
               Connect on LinkedIn <ArrowUpRight className="arrow" size={28} />
             </a>
           </motion.div>
